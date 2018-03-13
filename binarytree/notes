@@ -1,0 +1,11 @@
+1.  Given list of nodes, and height of tree, find the parents of the nodes
+
+2.  Root of tree is 2**h - 1 (also the number of nodes)
+
+3.  Left children are 2**(d+1) where d is the depth of the child
+
+4.  Right children are 1 more than the parent
+
+5.  To find the height of the child with label n, used recursive formula
+	
+	
